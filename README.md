@@ -59,7 +59,7 @@ I leverage modern technologies to build robust, scalable, and user-friendly mobi
 ### 📈 Top Languages Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichauhan06&layout=compact&theme=android-green&langs_count=8" alt="Sakshi's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichauhan06&layout=compact" alt="Sakshi's Top Languages"/>
 </p>
 <p align="center">
   <i>These stats auto-update based on the languages used across my public repositories.</i>
