@@ -31,13 +31,15 @@ Currently focused on building meaningful mobile experiences that blend design, u
 
 ---
 
-## 💻 My Android & Web Tech Stack
+## 🚀 Skills & GitHub Stats
+
+### 💻 Core Tech Stack
 
 I leverage modern technologies to build robust, scalable, and user-friendly mobile applications.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,compose,firebase,sqlite,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio,firebase,sqlite,figma,git,github" alt="Tech Stack Icons"/>
   </a>
 </p>
 
@@ -46,7 +48,7 @@ I leverage modern technologies to build robust, scalable, and user-friendly mobi
   <br>
   <p align="center">
     <b>Languages:</b> Kotlin, Java<br>
-    <b>Platform:</b> Android Studio, Jetpack Compose<br>
+    <b>Platform:</b> Android (Compose), Android Studio<br>
     <b>Backend/Database:</b> Firebase, SQLite<br>
     <b>Design & Version Control:</b> Figma, Git, GitHub
   </p>
@@ -54,13 +56,12 @@ I leverage modern technologies to build robust, scalable, and user-friendly mobi
 
 ---
 
-## 📊 GitHub Stats
-
-### 📈 Top Languages Usage
+### 📊 Top Languages Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichauhan06&layout=compact" alt="Sakshi's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichauhan06&layout=compact&langs_count=8&hide_border=true&card_width=400" alt="Sakshi's Top Languages"/>
 </p>
+
 <p align="center">
   <i>These stats auto-update based on the languages used across my public repositories.</i>
 </p>
