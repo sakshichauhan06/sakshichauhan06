@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/sakshichauhan06/sakshichauhan06/blob/master/github_banner.png" width="100%"/>
+  <img src="https://github.com/sakshichauhan06/sakshichauhan06/blob/master/github_banner.png" width="80%"/>
 </p>
 
 <!-- Social Links -->
@@ -33,24 +33,22 @@ Currently focused on building meaningful mobile experiences that blend design, u
 ---
 
 ### 🧠 Tech Stack  
+
+#### 💻 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,github,git,firebase,sqlite,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,github,git,figma" /><br>
+  <b>Kotlin</b> • <b>Java</b> • <b>Android Studio</b> • <b>Firebase</b> • <b>SQLite</b> • <b>Git & GitHub</b> • <b>Figma</b>
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sakshichauhan06&count_private=true&show_icons=true&theme=android-green" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichauhan06&layout=compact&theme=android-green" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
+#### 📊 Languages Usage Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichauhan06&layout=compact&theme=android-green&langs_count=8" />
+</p>
+<p align="center">
+  <i>These stats auto-update based on the languages used across my public repositories.</i>
+</p>
   
 ### 💚 Show some support by starring a repo or saying hi!
 
