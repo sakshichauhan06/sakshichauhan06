@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshichauhan06/" target="_blank">
+  <a href="https://www.linkedin.com/in/sakshichauhan0617" target="_blank">
     <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
