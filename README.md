@@ -1,29 +1,54 @@
-# Sakshi Chauhan 👋  
-**Android Developer | Kotlin | Jetpack Compose**
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/sakshichauhan06/sakshichauhan06/blob/master/github_banner.png" width="100%"/>
+</p>
 
-Building purposeful Android apps with clean architecture and thoughtful design.  
-I love creating seamless user experiences — from creative projects like **BentoStream** to safety-focused tools like **SafetyNet**.
+<!-- Social Links -->
+<p align="center">
+  <a href="https://x.com/yourhandle">
+    <img alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
+    <img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="mailto:yourmail@gmail.com">
+    <img alt="Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</p>
 
----
-
-🔭 **Currently working on:**  
-• Jetpack Compose projects — *SafetyNet* & *BentoStream*  
-• Exploring Maps, Firebase & API integrations  
-
-💬 **Ask me about:**  
-Android Development, Kotlin, Compose, RoomDB, MVVM  
-
-🥅 **Goals for 2025:**  
-• Land a freelance Android project by October  
-• Publish 2 production-ready apps  
-• Contribute to open source  
-
-📫 **Reach me:**  
-[LinkedIn](https://www.linkedin.com/in/sakshichauhan0617) • [Twitter/X](your-twitter-link) • [Email](mailto:chauhansakshi4m@gmail.com)
-
-⚡ **Fun fact:**  
-I read books and explore small corners around my city when I’m not coding ✨  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakshiChauhan25&style=flat-square&color=3DDC84"/>
+</p>
 
 ---
 
-⭐ *Show some love by starring a repo — it keeps me motivated!*  
+### 👋 Hey, I’m Sakshi
+I’m an **Android Developer** who loves turning clean UI ideas into intuitive Kotlin apps using **Jetpack Compose** and modern architecture.  
+Currently building thoughtful mobile experiences and experimenting with **Maps, APIs, and Material Design 3**.
+
+- 🔭 Working on: [SafetyNet MVP](#) & [BentoStream](#)
+- 🌱 Learning more about: Compose animations & scalable architecture
+- 🎯 2025 Goal: Land a full-time **Kotlin Developer** role and build open-source apps that help others
+- 💬 Ask me about Android Dev, Jetpack Compose, or Kotlin best practices  
+- ⚡ Fun fact: I read poetry and love exploring small creative ideas that make people feel safe 🌱  
+
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SakshiChauhan25&count_private=true&show_icons=true&theme=android-green" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiChauhan25&layout=compact&theme=android-green" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+### Show some 💚 by starring a repo or dropping a message!
+
+</div>
