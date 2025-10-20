@@ -33,13 +33,13 @@ Currently focused on building meaningful mobile experiences that blend design, u
 
 ## 🚀 Skills & GitHub Stats
 
-### 💻 Core Tech Stack
+### 💻 Core Tech Stack ✨
 
 I leverage modern technologies to build robust, scalable, and user-friendly mobile applications.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio,firebase,sqlite,figma,git,github" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,figma,git,github,cpp,gradle,ai,linux,postman" />
   </a>
 </p>
 
