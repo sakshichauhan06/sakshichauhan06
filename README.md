@@ -7,6 +7,10 @@
     <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
+   <a href="https://x.com/crochetingstar" target="_blank">
+    <img alt="X (Twitter)" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:chauhansakshi4m@gmail.com" target="_blank">
     <img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>
