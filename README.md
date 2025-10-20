@@ -19,10 +19,10 @@ Android Development, Kotlin, Compose, RoomDB, MVVM
 • Contribute to open source  
 
 📫 **Reach me:**  
-[LinkedIn](your-linkedin-link) • [Twitter/X](your-twitter-link) • [Email](mailto:your.email@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sakshichauhan0617) • [Twitter/X](your-twitter-link) • [Email](mailto:chauhansakshi4m@gmail.com)
 
 ⚡ **Fun fact:**  
-I read short stories & poetry when I’m not coding ✨  
+I read books and explore small corners around my city when I’m not coding ✨  
 
 ---
 
